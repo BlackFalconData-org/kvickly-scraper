@@ -208,6 +208,11 @@ No. Just sign up for Apify, paste your input, and click Start. No credit card re
 
 ## Related products by Black Falcon Data
 
+- [Coop365 Scraper](https://apify.com/blackfalcondata/coop365-scraper?fpr=1h3gvi) — Danish grocery leaflet products and prices from Coop365
+- [SuperBrugsen Scraper](https://apify.com/blackfalcondata/superbrugsen-scraper?fpr=1h3gvi) — Danish grocery leaflet products and prices from SuperBrugsen
+- [REMA 1000 Scraper](https://apify.com/blackfalcondata/rema1000-scraper?fpr=1h3gvi) — Danish grocery catalog, offers and prices from REMA 1000
+- [Netto Scraper](https://apify.com/blackfalcondata/netto-scraper?fpr=1h3gvi) — Danish grocery catalog, offers and prices from Netto
+
 [Browse all Black Falcon Data actors →](https://apify.com/blackfalcondata?fpr=1h3gvi)
 
 ---
